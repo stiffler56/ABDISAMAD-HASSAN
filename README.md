@@ -9,7 +9,14 @@
 
 ![About Me](about-me-banner.svg)
 
-    
+   ![About Me](about-me-banner.svg)
+
+![Skills](https://skillicons.dev/icons?i=js,cpp,html,css,firebase)
+
+![Status](https://img.shields.io/badge/status-online-brightgreen)
+![Coding](https://img.shields.io/badge/coding-Journal%20Tracker%20App-blueviolet)
+![Learning](https://img.shields.io/badge/learning-Networking%20%26%20Cybersecurity-informational)
+![Listening](https://img.shields.io/badge/listening%20to-nothing%20rn-lightgrey) 
   
 ---
 
