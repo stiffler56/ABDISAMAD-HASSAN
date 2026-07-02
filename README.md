@@ -13,4 +13,8 @@
   
 ---
 
-*Check out my bio for social links and ways to connect!*
+### 📫 Connect
+- **LinkedIn:** https://www.linkedin.com/in/abdisamad-said-hassan  
+- **Email:** csamed33@gmail.com
+- 
+Thanks for stopping by — Building things that is matter.
